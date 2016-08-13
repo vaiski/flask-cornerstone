@@ -29,3 +29,18 @@ To start the application, run:
 .. code-block:: bash
 
     python manage.py serve
+
+Testing
+-------
+
+Install tox:
+
+.. code-block:: bash
+
+    pip install tox
+
+Run the tests against the python versions defined in the `tox.ini`:
+
+.. code-block:: bash
+
+    tox
