@@ -1,0 +1,11 @@
+{
+    "full_name": "Your Name",
+    "email": "me@example.com",
+    "project_name": "Project Name",
+    "github_username": "username",
+    "repo_name": "project",
+    "package_name": "project",
+    "project_short_description": "A short description of the project.",
+    "license": "MIT",
+    "version": "0.1.0"
+}
